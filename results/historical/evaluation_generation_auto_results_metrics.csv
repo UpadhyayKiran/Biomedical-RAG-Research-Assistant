@@ -1,0 +1,6 @@
+query,retrieved_pmcids,has_summary,has_key_findings,has_limitations,has_pmcid,structure_score,grounding_overlap,traceability_score,length_score,overall_generation_score,answer_word_count
+atrial fibrillation mobile health patient outcomes,PMC10029859; PMC8475702; PMC10029859,TRUE,TRUE,FALSE,FALSE,0.667,0.268,0,0.5,0.377,47
+oncology trial enrollment barriers,PMC8860011; PMC11202609; PMC11202609,TRUE,TRUE,FALSE,FALSE,0.667,0.2,0,1,0.403,103
+remote patient monitoring clinical benefits,PMC11759446; PMC11759446; PMC11759446,FALSE,FALSE,TRUE,FALSE,0.333,0.121,0,1,0.259,156
+clinical trial patient retention strategies,PMC11096429; PMC9136463; PMC10262501,TRUE,TRUE,FALSE,FALSE,0.667,0.107,0,1,0.371,132
+wearable devices in cardiovascular monitoring,PMC10029859; PMC10029859; PMC10029859,TRUE,TRUE,TRUE,FALSE,1,0.25,0,1,0.537,147

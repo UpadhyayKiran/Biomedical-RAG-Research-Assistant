@@ -1,0 +1,17 @@
+# Direct dependencies preserved from the implementation, with missing requests added.
+# This is not a validated cross-platform lockfile; see docs/VALIDATION.md.
+streamlit
+torch
+transformers>=4.41,<5
+peft
+bitsandbytes
+sentence-transformers>=5.1,<5.2
+faiss-cpu
+pandas
+numpy
+pymupdf
+tqdm
+datasets
+accelerate
+safetensors
+requests

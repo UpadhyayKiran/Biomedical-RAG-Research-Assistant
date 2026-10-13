@@ -1,0 +1,74 @@
+[
+  {
+    "source": "Capstone_Final/Results/2026-06-28T08-50_export.csv",
+    "source_sha256": "27413017ddc23d06aeaf4b6087e7bd3f6b1ff7eb74a40036b2c45ccd405fdea0",
+    "published": "results/historical/2026-06-28T08-50_export.csv",
+    "treatment": "byte-for-byte copy"
+  },
+  {
+    "source": "Capstone_Final/evaluation_generation_auto_results_1.csv",
+    "source_sha256": "153017f3f35e2b1172ff96c1a254aaa4f94ac23e9c47089a288b1a107ed935c9",
+    "published": "results/historical/evaluation_generation_auto_results_1_metrics.csv",
+    "treatment": "generation answer and concatenated title fields removed; all score fields preserved"
+  },
+  {
+    "source": "Capstone_Final/evaluation_generation_auto_results.csv",
+    "source_sha256": "153017f3f35e2b1172ff96c1a254aaa4f94ac23e9c47089a288b1a107ed935c9",
+    "published": "results/historical/evaluation_generation_auto_results_metrics.csv",
+    "treatment": "generation answer and concatenated title fields removed; all score fields preserved"
+  },
+  {
+    "source": "Capstone_Final/evaluation_retrieval_results.csv",
+    "source_sha256": "57f71e5ccfbb871fd8666449ceabfff8adfd8ebcdd22409ec0494346574a929a",
+    "published": "results/historical/evaluation_retrieval_results.csv",
+    "treatment": "byte-for-byte copy"
+  },
+  {
+    "source": "Capstone_Final/evaluation_retrieval_results_1.csv",
+    "source_sha256": "57f71e5ccfbb871fd8666449ceabfff8adfd8ebcdd22409ec0494346574a929a",
+    "published": "results/historical/evaluation_retrieval_results_1.csv",
+    "treatment": "byte-for-byte copy"
+  },
+  {
+    "source": "Capstone_Final/Results/Retrieval_Evaluation_at_3.csv",
+    "source_sha256": "f82f639102bfa51ab994e98a1044dbfa073091a19008844f46e61477f6ba9a27",
+    "published": "results/historical/Retrieval_Evaluation_at_3.csv",
+    "treatment": "byte-for-byte copy"
+  },
+  {
+    "source": "Capstone_Final/Results/Retrieval_Evaluation_at_5.csv",
+    "source_sha256": "988d9ee1d000b1f2a301d9b597934694fb28de948b86dacbea03fd065e1c4db6",
+    "published": "results/historical/Retrieval_Evaluation_at_5.csv",
+    "treatment": "byte-for-byte copy"
+  },
+  {
+    "source": "Capstone_Final/Results/Study_Comparison_Table_Query_1.csv",
+    "source_sha256": "0032eeefd8e3cdee2db820236f867b8fe73757c3db482351a3a81b6638120fba",
+    "published": "results/historical/Study_Comparison_Table_Query_1.csv",
+    "treatment": "byte-for-byte copy"
+  },
+  {
+    "source": "Capstone_Final/Results/Study_Comparison_Table_Query_2.csv",
+    "source_sha256": "27413017ddc23d06aeaf4b6087e7bd3f6b1ff7eb74a40036b2c45ccd405fdea0",
+    "published": "results/historical/Study_Comparison_Table_Query_2.csv",
+    "treatment": "byte-for-byte copy"
+  },
+  {
+    "source": "Capstone_Final/Results/Study_Comparison_Table_Query_3.csv",
+    "source_sha256": "5849f067dbe27d44c32cdd7fa9d408686c1359152f8e173460df28b93f12768f",
+    "published": "results/historical/Study_Comparison_Table_Query_3.csv",
+    "treatment": "byte-for-byte copy"
+  },
+  {
+    "source": "Capstone_Final/Results/Study_Comparison_Table_Query_4.csv",
+    "source_sha256": "fef066ab5a0f72b1011c448d356ca963a12f67875ea566274394d7dbdcf3be8f",
+    "published": "results/historical/Study_Comparison_Table_Query_4.csv",
+    "treatment": "byte-for-byte copy"
+  },
+  {
+    "source": "Capstone_Final/Results/Study_Comparison_Table_Query_5.csv",
+    "source_sha256": "01d5fb342efbc48208188c850475b67f2f41a1889c5be7ee020368d41a66c7ed",
+    "published": "results/historical/Study_Comparison_Table_Query_5.csv",
+    "treatment": "byte-for-byte copy"
+  }
+]

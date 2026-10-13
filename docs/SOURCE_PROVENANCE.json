@@ -1,0 +1,92 @@
+[
+  {
+    "source": "Capstone_Final/create_chunks.py",
+    "source_sha256": "36db3b59e8837b847a2093aeee6e56d623861639d0aa4a7d0ec815f8a5521a01",
+    "destination": "biomedical_rag/create_chunks.py"
+  },
+  {
+    "source": "Capstone_Final/create_faiss_index.py",
+    "source_sha256": "4790641fe84ef2d8334dddbf2e6b3de934ca3996bc666d70366da17ca41e0b14",
+    "destination": "biomedical_rag/create_faiss_index.py"
+  },
+  {
+    "source": "Capstone_Final/data_collection_dir.py",
+    "source_sha256": "163b2016430d5f6db5e67a79c3ea9f820e9796f1aa2ad22abfd7b1d6ce6ed825",
+    "destination": "biomedical_rag/data_collection_dir.py"
+  },
+  {
+    "source": "Capstone_Final/data_collection_pdf.py",
+    "source_sha256": "9f4136159e67e3dd28c2618df2a34ab6e65cb14cb48c177782c84d5abdb4ef8e",
+    "destination": "biomedical_rag/data_collection_pdf.py"
+  },
+  {
+    "source": "Capstone_Final/evaluate_generation_auto.py",
+    "source_sha256": "fa6d30ddddc320cf9da54d45b61d81ef8e87a6aea00901b03d58315257d12f00",
+    "destination": "biomedical_rag/evaluate_generation_auto.py"
+  },
+  {
+    "source": "Capstone_Final/evaluate_retrieval.py",
+    "source_sha256": "0e783245a20675afc826843def3bad31bc2b9b58205211a246fdf2b05c168f44",
+    "destination": "biomedical_rag/evaluate_retrieval.py"
+  },
+  {
+    "source": "Capstone_Final/generate_metadata_new.py",
+    "source_sha256": "b95377956747b704d032347668aa7e136631e902675e8f2c466d28ec5900bb44",
+    "destination": "biomedical_rag/generate_metadata_new.py"
+  },
+  {
+    "source": "Capstone_Final/logger_utils.py",
+    "source_sha256": "00239aff0328628f0db93737e64874dd3345a793cd7283cc36cd1db7ce3934e8",
+    "destination": "biomedical_rag/logger_utils.py"
+  },
+  {
+    "source": "Capstone_Final/metadata_balanced_pdf_filter.py",
+    "source_sha256": "ffa793c09cf37538b83fd704e3ed5860055dfa2b14def356b5640c715f925912",
+    "destination": "biomedical_rag/metadata_balanced_pdf_filter.py"
+  },
+  {
+    "source": "Capstone_Final/pmc_search_and_collect.py",
+    "source_sha256": "0564e2bce8a49bd83db258b4d90397cf60a7dacdaee7d1ab1fa0b787a04cf7cc",
+    "destination": "biomedical_rag/pmc_search_and_collect.py"
+  },
+  {
+    "source": "Capstone_Final/prepare_qlora_dataset.py",
+    "source_sha256": "45377477d1e44cf8b121271009f67f14c786eb64bf0f0d1884fd2a636096abec",
+    "destination": "biomedical_rag/prepare_qlora_dataset.py"
+  },
+  {
+    "source": "Capstone_Final/preprocessing_final.py",
+    "source_sha256": "ffd77210bb199a8b922dc560372b03f97b06d14758d28bba0923d56ff468061e",
+    "destination": "biomedical_rag/preprocessing_final.py"
+  },
+  {
+    "source": "Capstone_Final/qlora_train.py",
+    "source_sha256": "b5d9d1223700b18f126a667336166768afc862397620d41ddf819c1d7060b507",
+    "destination": "biomedical_rag/qlora_train.py"
+  },
+  {
+    "source": "Capstone_Final/rag_generate.py",
+    "source_sha256": "5bd95196f8f4ef427f07890b1f6c6e523b291e3347064c6f2dfff6094ca0cd93",
+    "destination": "biomedical_rag/rag_generate.py"
+  },
+  {
+    "source": "Capstone_Final/test_finetuned_model.py",
+    "source_sha256": "5e5beeb5201d7f564d5509723f5c8b81618be8c0eb6662aa5fdd9fa04ce085fb",
+    "destination": "biomedical_rag/test_finetuned_model.py"
+  },
+  {
+    "source": "Capstone_Final/test_retrieval.py",
+    "source_sha256": "0a310acbe4c1fbdc5cb47bff824f2086c69628c2f202f2f33421ac82ada376c2",
+    "destination": "biomedical_rag/test_retrieval.py"
+  },
+  {
+    "source": "Capstone_Final/app.py",
+    "source_sha256": "3edc4d6d25837553ad4f98fa6869bc7345fa2a8e5373389a3f6cbb76e1786d8c",
+    "destination": "biomedical_rag/ui.py + biomedical_rag/workflow.py + app.py"
+  },
+  {
+    "source": "Capstone_Final/dataset_152/metadata_cleaning.py",
+    "source_sha256": "751a115a295cf0da8f10ddf3fe10ab05908467dcc5165249271116025373248f",
+    "destination": "biomedical_rag/metadata_cleaning.py"
+  }
+]
